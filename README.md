@@ -1,4 +1,4 @@
-## Data-Practicum-1
+## Project
 
 ### Telco Customer Churn
 
